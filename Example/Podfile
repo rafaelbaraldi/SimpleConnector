@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SimpleConnector_Example' do
+  pod 'SimpleConnector', :path => '../'
+
+  target 'SimpleConnector_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
