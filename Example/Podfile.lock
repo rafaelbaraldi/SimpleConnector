@@ -1,0 +1,16 @@
+PODS:
+  - SimpleConnector (1.0.0)
+
+DEPENDENCIES:
+  - SimpleConnector (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleConnector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SimpleConnector: fe7b0fbd8a8055c1b255f689efe6fb2a8f9bc829
+
+PODFILE CHECKSUM: f6b758f68c0619a8672714cbf396b01ec92978e7
+
+COCOAPODS: 1.9.1
